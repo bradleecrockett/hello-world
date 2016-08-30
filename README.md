@@ -1,3 +1,2 @@
 # hello-world
-This is my first Git repository.
-I am a school teacher, a husband and a father (not in that order).
+This is your first assignment, write a complete Java class that prints Hello World AND YOUR NAME to the console window.
